@@ -40,6 +40,4 @@ Profissionais com maior nível de senioridade apresentam salários significativa
 
 O trabalho remoto possui forte presença no mercado de dados, reforçando a tendência global de trabalho distribuído na área de tecnologia.
 
-## 👨‍💻 Autor
 
-Thiago
